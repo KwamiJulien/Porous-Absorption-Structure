@@ -32,5 +32,5 @@ The results of the dynamic experience were in terms of the maximum acceleration 
 
 
 ## Results
-For a more detailed description of the results of the test feel free to read (Porous.Structure.Report.pdf)[Porous.Structure.Report.pdf]. It outlines in much greater detail the implications of all the testing. However, to
+For a more detailed description of the results of the test feel free to read the [full report](./Porous.Structure.Report.pdf). It outlines in much greater detail the implications of all the testing. However, to
 sum up the results, the lattice structure exceeded our expectations when it came to its strength and absorption quality.
