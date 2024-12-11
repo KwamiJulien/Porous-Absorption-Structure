@@ -33,4 +33,4 @@ The results of the dynamic experience were in terms of the maximum acceleration 
 
 ## Results
 For a more detailed description of the results of the test feel free to read []. It outlines in much greater detailed the implications of all the testing. However, to
-sum up the results, the lattice structure exceeded are expectations when it came to it's strength and absorption quality. When 
+sum up the results, the lattice structure exceeded are expectations when it came to it's strength and absorption quality.
