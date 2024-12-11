@@ -16,7 +16,7 @@ representation of the stress distribution of the lattice as well as a graph of t
 
 <img width="350" alt="deformation" src="https://github.com/user-attachments/assets/2f1604b6-9351-44bd-bbc1-6b47dee51d68" />
 
-It can be noted that the maximum stress that the structure was subject to was 1.421 MPa which is well below the 15,600 MPa yield stress of the material. Furthermore, the material begins to deform significantly under a static load of over 50 N. 
+It can be noted that the maximum stress that the structure was subject to was 1.421 MPa which is well below the 15,600 MPa yield stress of the material. Furthermore, the material begins to deform significantly under a static load of over 60 N. 
 
 ### Dynamic Testing
 The dynamic testing involved dropping a 2.4 kg mass onto the structure from a height of 50 mm. Using an accelerometer and WitMotion software, the acceleration of the mass
@@ -32,5 +32,5 @@ The results of the dynamic experience were in terms of the maximum acceleration 
 
 
 ## Results
-For a more detailed description of the results of the test feel free to read []. It outlines in much greater detailed the implications of all the testing. However, to
-sum up the results, the lattice structure exceeded are expectations when it came to it's strength and absorption quality.
+For a more detailed description of the results of the test feel free to read (Porous.Structure.Report.pdf)[Porous.Structure.Report.pdf]. It outlines in much greater detail the implications of all the testing. However, to
+sum up the results, the lattice structure exceeded our expectations when it came to its strength and absorption quality.
